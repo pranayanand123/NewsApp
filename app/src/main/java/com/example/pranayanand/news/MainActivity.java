@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
 
         DownloadTask task = new DownloadTask();
 
-        task.execute("https://newsapi.org/v1/articles?source=the-times-of-india&sortBy=latest&apiKey=b8fc43ef9677400f9b3ce055e67941b9");
+        task.execute("https://newsapi.org/v1/articles?source=the-times-of-india&sortBy=latest&apiKey=API_KEY");
 
 
 
